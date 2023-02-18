@@ -13,7 +13,7 @@ import {
   NavBtn,
   NavBtnLink,
 } from './NavbarElements'
-import resume from '../../resources/ResumeMay2022.pdf'
+import resume from '../../resources/ResumeFeb2023.pdf'
 
 const Navbar = ({ toggle }) => {
   const [scrollNav, setScrollNav] = useState(false)

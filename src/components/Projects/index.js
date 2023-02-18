@@ -9,7 +9,7 @@ import {
 import ProjectCard from './Card'
 import {
   FoodMood,
-  SocialMedia,
+  Memories,
   Weather,
   PomodoroClock,
   Giphy,
@@ -24,7 +24,7 @@ export const Projects = () => {
           <ProjectsWrapper>
             <CardsSection>
               <ProjectCard {...FoodMood}/>
-              <ProjectCard {...SocialMedia}/>
+              <ProjectCard {...Memories}/>
             </CardsSection>
             <CardsSection>
               <ProjectCard {...Weather}/>

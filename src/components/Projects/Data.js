@@ -6,12 +6,12 @@ export const FoodMood = {
   href: 'https://foodmoodttp.netlify.app/',
 }
 
-export const SocialMedia = {
-  img: require('../../images/Social-Media-App.png'),
-  alt: 'Social Media',
-  detail: 'Post, like, and comment on this Social Media App!',
+export const Memories = {
+  img: require('../../images/Memories.png'),
+  alt: 'Memories',
+  detail: 'Share your Memories and views others as well',
   label: 'Full Stack',
-  href: 'https://my-merng-social-media.netlify.app/',
+  href: 'https://memoriess-mern.netlify.app/',
 }
 
 export const Weather = {
